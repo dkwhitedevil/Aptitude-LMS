@@ -1,0 +1,375 @@
+{
+  "sections": [
+    {
+      "title": "Quantitative Aptitude",
+      "questions": [
+        {
+          "id": "Q1",
+          "question": "If 5x + 3 = 23, what is x?",
+          "options": {"a":"4","b":"5","c":"3","d":"2"},
+          "answer": "a",
+          "explanation": "5x = 20 → x = 4"
+        },
+        {
+          "id": "Q2",
+          "question": "A train travels 180 km in 3 hours. What is its average speed?",
+          "options": {"a":"50 km/h","b":"60 km/h","c":"55 km/h","d":"65 km/h"},
+          "answer": "b"
+        },
+        {
+          "id": "Q3",
+          "question": "What is the LCM of 12, 15, and 20?",
+          "options": {"a":"60","b":"120","c":"180","d":"240"},
+          "answer": "a"
+        },
+        {
+          "id": "Q4",
+          "question": "If the ratio is 3:4 and total is 70, find the larger part.",
+          "options": {"a":"30","b":"40","c":"42","d":"28"},
+          "answer": "c"
+        },
+        {
+          "id": "Q5",
+          "question": "What is 15% of 200?",
+          "options": {"a":"20","b":"25","c":"30","d":"35"},
+          "answer": "c"
+        },
+        {
+          "id": "Q6",
+          "question": "A product costs $80 after a 20% discount. What was original price?",
+          "options": {"a":"96","b":"100","c":"90","d":"85"},
+          "answer": "b"
+        },
+        {
+          "id": "Q7",
+          "question": "0.75 as a fraction is:",
+          "options": {"a":"3/4","b":"1/4","c":"2/3","d":"3/5"},
+          "answer": "a"
+        },
+        {
+          "id": "Q8",
+          "question": "Area of a circle with radius 7 is (π=22/7):",
+          "options": {"a":"154","b":"144","c":"168","d":"132"},
+          "answer": "a"
+        },
+        {
+          "id": "Q9",
+          "question": "If 2^x = 16, what is x?",
+          "options": {"a":"2","b":"3","c":"4","d":"5"},
+          "answer": "c"
+        },
+        {
+          "id": "Q10",
+          "question": "What is (12 × 15) ÷ 5?",
+          "options": {"a":"30","b":"36","c":"40","d":"42"},
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "title": "Verbal Ability (English)",
+      "questions": [
+        {
+          "id": "V1",
+          "question": "Choose synonym for 'Abundant':",
+          "options": {"a":"Scarce","b":"Plentiful","c":"Meager","d":"Poor"},
+          "answer": "b"
+        },
+        {
+          "id": "V2",
+          "question": "Choose antonym for 'Optimistic':",
+          "options": {"a":"Hopeful","b":"Positive","c":"Pessimistic","d":"Upbeat"},
+          "answer": "c"
+        },
+        {
+          "id": "V3",
+          "question": "Fill in the blank: He is ___ best player.",
+          "options": {"a":"a","b":"an","c":"the","d":"no article"},
+          "answer": "c"
+        },
+        {
+          "id": "V4",
+          "question": "Spot the error: She don't like to read books.",
+          "options": {"a":"She","b":"don't","c":"like","d":"books"},
+          "answer": "b",
+          "explanation": "'Don't' should be 'doesn't'"
+        },
+        {
+          "id": "V5",
+          "question": "Choose correct spelling:",
+          "options": {"a":"Accomodate","b":"Acommodate","c":"Accommodate","d":"Acommadate"},
+          "answer": "c"
+        },
+        {
+          "id": "V6",
+          "question": "He has ___ car in the street.",
+          "options": {"a":"the red","b":"a red","c":"red","d":"an red"},
+          "answer": "b"
+        },
+        {
+          "id": "V7",
+          "question": "Which word is most nearly opposite in meaning to 'Benevolent'?",
+          "options": {"a":"Kind","b":"Cruel","c":"Helpful","d":"Charitable"},
+          "answer": "b"
+        },
+        {
+          "id": "V8",
+          "question": "Complete: They ___ gone by now.",
+          "options": {"a":"have","b":"has","c":"had","d":"were"},
+          "answer": "a"
+        },
+        {
+          "id": "V9",
+          "question": "Choose correct preposition: She is proud ___ her work.",
+          "options": {"a":"of","b":"for","c":"with","d":"in"},
+          "answer": "a"
+        },
+        {
+          "id": "V10",
+          "question": "Fill in: He didn’t ___ the meeting.",
+          "options": {"a":"attend","b":"attended","c":"attends","d":"attendance"},
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "title": "Logical Reasoning",
+      "questions": [
+        {
+          "id": "L1",
+          "question": "Complete series: 3, 6, 12, 24, __",
+          "options": {"a":"30","b":"36","c":"48","d":"60"},
+          "answer": "c"
+        },
+        {
+          "id": "L2",
+          "question": "All roses are flowers. Some flowers fade quickly. So some roses fade quickly. (Conclusion?)",
+          "options": {"a":"True","b":"False","c":"Cannot say","d":"None"},
+          "answer": "c"
+        },
+        {
+          "id": "L3",
+          "question": "If BODMAS is applied, 6 + 2 × 5 = ?",
+          "options": {"a":"40","b":"16","c":"20","d":"13"},
+          "answer": "b"
+        },
+        {
+          "id": "L4",
+          "question": "Which next: A, C, E, G, __",
+          "options": {"a":"I","b":"H","c":"J","d":"K"},
+          "answer": "a"
+        },
+        {
+          "id": "L5",
+          "question": "If today is Monday, what day will be 50 days later?",
+          "options": {"a":"Wednesday","b":"Thursday","c":"Friday","d":"Saturday"},
+          "answer": "c"
+        },
+        {
+          "id": "L6",
+          "question": "Find odd one out: 2, 3, 5, 7, 9",
+          "options": {"a":"5","b":"7","c":"9","d":"3"},
+          "answer": "c"
+        },
+        {
+          "id": "L7",
+          "question": "If P→Q is true and Q→R is true, then P→R is:",
+          "options": {"a":"False","b":"True","c":"Cannot determine","d":"None"},
+          "answer": "b"
+        },
+        {
+          "id": "L8",
+          "question": "Solve: □ + 7 = 12",
+          "options": {"a":"3","b":"5","c":"7","d":"Unknown"},
+          "answer": "b"
+        },
+        {
+          "id": "L9",
+          "question": "If 5 people shake hands with each other once, how many shakes?",
+          "options": {"a":"10","b":"15","c":"20","d":"5"},
+          "answer": "b"
+        },
+        {
+          "id": "L10",
+          "question": "Which shape doesn't belong in pattern: ▲, ▲, ▼, ▲, ▲, __",
+          "options": {"a":"▲","b":"▼","c":"◆","d":"■"},
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "title": "Technical Aptitude",
+      "questions": [
+        {
+          "id": "T1",
+          "question": "Which language is used for styling web pages?",
+          "options": {"a":"HTML","b":"JQuery","c":"CSS","d":"XML"},
+          "answer": "c"
+        },
+        {
+          "id": "T2",
+          "question": "Which company developed JavaScript?",
+          "options": {"a":"Microsoft","b":"Netscape","c":"Sun Microsystems","d":"IBM"},
+          "answer": "b"
+        },
+        {
+          "id": "T3",
+          "question": "Which data structure uses FIFO method?",
+          "options": {"a":"Stack","b":"Queue","c":"Tree","d":"Graph"},
+          "answer": "b"
+        },
+        {
+          "id": "T4",
+          "question": "SQL stands for:",
+          "options": {"a":"Structured Query Language","b":"Strong Question Language","c":"Structured Question List","d":"Simple Query Language"},
+          "answer": "a"
+        },
+        {
+          "id": "T5",
+          "question": "Which one is a NoSQL database?",
+          "options": {"a":"MySQL","b":"MongoDB","c":"PostgreSQL","d":"Oracle"},
+          "answer": "b"
+        },
+        {
+          "id": "T6",
+          "question": "HTML is:",
+          "options": {"a":"Programming Language","b":"Markup Language","c":"Scripting Language","d":"Style Sheet Language"},
+          "answer": "b"
+        },
+        {
+          "id": "T7",
+          "question": "Which is not a front-end framework?",
+          "options": {"a":"React","b":"Django","c":"Vue","d":"Angular"},
+          "answer": "b"
+        },
+        {
+          "id": "T8",
+          "question": "Git is a _____ system.",
+          "options": {"a":"Version Control","b":"File Management","c":"Database","d":"Build"},
+          "answer": "a"
+        },
+        {
+          "id": "T9",
+          "question": "Which HTML tag is used to define an unordered list?",
+          "options": {"a":"<ol>","b":"<ul>","c":"<li>","d":"<list>"},
+          "answer": "b"
+        },
+        {
+          "id": "T10",
+          "question": "CSS stands for:",
+          "options": {"a":"Computer Style Sheets","b":"Cascading Style Sheets","c":"Creative Style Syntax","d":"Cascading Simple Style"},
+          "answer": "b"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
